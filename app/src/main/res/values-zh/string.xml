@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ExtraTranslation" >
+    <string name="app_name">MenuDemo</string>
+    <string name="a1">中文1</string>
+    <string name="a2">中文2</string>
+</resources>
